@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shayan</h1>
+![Header](./github-header-image.png)
 <h3 align="center">A passionate computer scientist from Florida</h3>
 
 <h3 align="left">Connect with me:</h3>
