@@ -1,5 +1,24 @@
 ![Header](./github-header-image.png)
 
+I'm a Fullstack Software Developer with a strong foundation in C++, Python, JavaScript, and modern frameworks like React and .NET. I’m passionate about building efficient, scalable solutions—from backend systems to interactive user interfaces.
+
+🛠️ Tech Stack & Tools:
+Languages: C++, Python, JavaScript, C#, HTML/CSS, Dockerfile
+
+Frameworks & Libraries: React, Tailwind, .NET, Flask, TensorFlow
+
+Tools: Git, Docker, Postman, VS Code, GitHub Actions
+
+🔭 What I’m Working On:
+Cyber resiliency tools for real-time risk assessment
+
+Custom memory manager for low-level system operations
+
+AI-assisted utilities using TensorFlow and OpenTelemetry
+
+🎓 Education:
+B.S. in Computer Science, University of Florida
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shayan-akhoondan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-akhoondan" height="30" width="40" /></a>
