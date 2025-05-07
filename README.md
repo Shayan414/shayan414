@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-### 👋 Hi, I'm Shayan Akhoondan
+### 👋 Hi, I'm Shayan
 
 I'm a **Fullstack Software Developer** with a strong foundation in C++, Python, JavaScript, and modern frameworks like React and .NET. I’m passionate about building efficient, scalable solutions—from backend systems to interactive user interfaces.
 
