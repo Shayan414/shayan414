@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Shayan
 
-I'm a **Fullstack Software Developer** with a strong foundation in C++, Python, JavaScript, and modern frameworks like React and .NET. I’m passionate about building efficient, scalable solutions—from backend systems to interactive user interfaces.
+I'm a **Fullstack Software Developer** with a strong foundation in C++, Python, JavaScript, and modern frameworks like React and Flask. I’m passionate about building efficient, scalable solutions—from backend systems to interactive user interfaces.
 
 #### 🛠️ Tech Stack & Tools:
 - **Languages:** C++, Python, JavaScript, C#, HTML/CSS, Dockerfile  
