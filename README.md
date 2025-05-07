@@ -31,4 +31,4 @@ Feel free to explore my work and connect with me!
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan414&show_icons=true&locale=en&layout=compact&theme=dark" alt="shayan414" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan414&theme=black-ice" alt="shayan414" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan414&theme=dark" alt="shayan414" /></p>
