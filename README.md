@@ -32,6 +32,6 @@ Feel free to explore my work and connect with me!
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan414&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=33DFFF" />
   &nbsp;&nbsp;&nbsp;
-  <img align="center" style="max-width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan414&background=000000&currStreakLabel=66EFFF&currStreakNum=66EFFF&sideNums=66EFFF&sideLabels=66EFFF&dates=66EFFF&ring=66EFFF&fire=66EFFF&stroke=ffffff" />
+  <img align="center" width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan414&background=000000&currStreakLabel=66EFFF&currStreakNum=66EFFF&sideNums=66EFFF&sideLabels=66EFFF&dates=66EFFF&ring=66EFFF&fire=66EFFF&stroke=ffffff" />
 </p>
 
